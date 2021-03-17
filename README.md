@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# ¡Hola!
+Soy Alejandro, estudiante de Ingeniria Informatica del software.
+Mas información sobre mi [aqui](https://alejandroiglesiascalvo.github.io/)
 <!--
 **AlejandroIglesiasCalvo/AlejandroIglesiasCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
